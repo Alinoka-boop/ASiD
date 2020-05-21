@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\2020АиСД\Task1\bin\Debug\Task1.exe.config
+C:\Users\ASUS\Desktop\2020АиСД\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2020АиСД\Task1\bin\Debug\Task1.exe
+C:\Users\ASUS\Desktop\2020АиСД\Task1\bin\Debug\Task1.pdb
+C:\Users\ASUS\Desktop\2020АиСД\Task1\obj\Debug\Task1.exe
+C:\Users\ASUS\Desktop\2020АиСД\Task1\obj\Debug\Task1.pdb
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\bin\Debug\Task1.exe.config
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\obj\Debug\Task1.exe
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\obj\Debug\Task1.pdb
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\bin\Debug\Task1.exe
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\bin\Debug\Task1.pdb
+C:\Users\ASUS\Desktop\2020АиСД\GrigorovichAA_Lab8\obj\Debug\Task1.csprojResolveAssemblyReference.cache
